@@ -1,6 +1,6 @@
 ### Hi there, I'm Amine Boutouil [more about me?][website] 👋
 
-## I'm a Full-Stack web Developer, and Software Designer and Developer too!!
+## I'm a Full-Stack web Developer, and Software {Designer,Developer} too!!
 
 - 🔭 I just launched my latest sell script: [DummyCamy][Tool]!
 - 🌱 I’m currently learning everything 🤣
