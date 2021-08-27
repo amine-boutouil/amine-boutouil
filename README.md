@@ -5,7 +5,7 @@
 - 🔭 I just launched my latest sell script: [DummyCamy][shell]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other devloppers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to drink coffe
 - 📫 You can reach me by emailing me : amine_boutouil@outlook.com
 
