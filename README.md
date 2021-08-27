@@ -2,7 +2,7 @@
 
 ## I'm a Full-Stack web Developer, and Software Designer and Developer too!!
 
-- 🔭 I just launched my latest sell script: [DummyCamy][shell]!
+- 🔭 I just launched my latest sell script: [DummyCamy][Tool]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other devloppers
 - 🥅 2022 Goals: Contribute more to Open Source projects
