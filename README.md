@@ -2,7 +2,7 @@
 
 ## I'm a Full-Stack web Developer, and Software {Designer,Developer} too!!
 
-- 🔭 I just launched my latest shell script: [DummyCamy][Tool]!
+- 🔭 I just launched my latest php script: [Undetected ADS using PHP][Tool]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other devloppers
 - 🥅 2022 Goals: Contribute more to Open Source projects
@@ -42,7 +42,7 @@
 <br />
 
 [website]: https://about.me/amineboutouil
-[Tool]: https://github.com/amine-boutouil/DummyCamy/
+[Tool]: https://github.com/amine-boutouil/unblocked-ads/
 [twitter]: https://twitter.com/Amin_Boutouil
 [youtube]: https://youtube.com/#
 [instagram]: https://instagram.com/amine_boutouil
