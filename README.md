@@ -41,7 +41,7 @@
 <br />
 <br />
 
-[website]: https://about.me/amineboutouil
+[website]: https://boutouil.me/
 [Tool]: https://github.com/amine-boutouil/unblocked-ads/
 [twitter]: https://twitter.com/Amin_Boutouil
 [youtube]: https://youtube.com/#
