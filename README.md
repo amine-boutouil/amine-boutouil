@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with other devloppers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to drink coffe
-- 📫 You can reach me by emailing me : amine_boutouil@outlook.com
+- 📫 You can reach me by emailing me : amine@boutouil.me
 
 ### Connect with me:
 
