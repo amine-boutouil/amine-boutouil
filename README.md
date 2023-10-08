@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate with **other devloppers**
 
-- 📫 How to reach me **amine@boutouil.me**
+- 📫 How to reach me **contact@boutouil.me**
 
 - 📄 Know about my experiences [https://boutouil.me](https://boutouil.me)
 
