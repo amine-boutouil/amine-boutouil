@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm I'm Amine Boutouil</h1>
 <h3 align="center">I'm a Full-Stack web Developer, Software {Designer, Developer} and Network Administrator !</h3>
 
-
-<p align="left"> <a href="https://twitter.com/amin_boutouil" target="blank"><img src="https://img.shields.io/twitter/follow/amin_boutouil?logo=twitter&style=for-the-badge" alt="amin_boutouil" /></a> </p>
-
 - 🔭 I’m currently working on **Bots and Task Automations**
 
 - 🌱 I’m currently learning **NodeJs, React**
