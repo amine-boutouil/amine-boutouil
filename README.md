@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm I'm Amine Boutouil</h1>
 <h3 align="center">I'm a Full-Stack web Developer, Software {Designer, Developer} and Network Administrator !</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amine-boutouil" alt="amine-boutouil" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/amin_boutouil" target="blank"><img src="https://img.shields.io/twitter/follow/amin_boutouil?logo=twitter&style=for-the-badge" alt="amin_boutouil" /></a> </p>
 
@@ -35,6 +34,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/amineboutouil"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amineboutouil" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amine-boutouil&show_icons=true&locale=en&layout=compact" alt="amine-boutouil" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amine-boutouil&show_icons=true&locale=en" alt="amine-boutouil" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amine-boutouil" alt="amine-boutouil" /></a> </p>
