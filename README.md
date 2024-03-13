@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJs, React**
 
-- ⚒️ Focused on Cracking / Reversing / Programming
+- ⚒️ Focused on **Cracking / Reversing / Programming**
 
 - 👨‍💻 All of my projects are available at [https://boutouil.me/portfolio](https://boutouil.me/projects)
 
