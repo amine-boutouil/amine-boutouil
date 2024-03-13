@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **NodeJs, React**
 
-- 👯 I’m looking to collaborate with **other devloppers**
+- ⚒️ Focused on Cracking / Reversing / Programming
 
-- 👨‍💻 All of my projects are available at [https://boutouil.me/portfolio](https://boutouil.me/portfolio)
-
-- 📝 I regularly write articles on [https://blog.boutouil.me/](https://blog.boutouil.me/)
+- 👨‍💻 All of my projects are available at [https://boutouil.me/portfolio](https://boutouil.me/projects)
 
 - 📫 How to reach me **contact@boutouil.me**
 
