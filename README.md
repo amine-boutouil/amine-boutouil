@@ -7,11 +7,11 @@
 
 - ⚒️ Focused on **Cracking / Reversing / Programming**
 
-- 👨‍💻 All of my projects are available at [boutouil.me/projects](https://boutouil.me/projects)
+- 👨‍💻 All of my projects are available at [go.boutouil.me/projects](https://go.boutouil.me/projects)
 
 - 📫 How to reach me **contact@boutouil.me**
 
-- 📄 Know about my experiences [boutouil.me/whoami](https://boutouil.me/whoami)
+- 📄 Know about my experiences [go.boutouil.me/whoami](https://go.boutouil.me/whoami)
 
 - ⚡ Fun fact **I love to drink coffee**
 
