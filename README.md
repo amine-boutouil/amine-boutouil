@@ -7,7 +7,7 @@
 
 - ⚒️ Focused on **Cracking / Reversing / Programming**
 
-- 👨‍💻 All of my projects are available at [https://boutouil.me/portfolio](https://boutouil.me/projects)
+- 👨‍💻 All of my projects are available at [https://boutouil.me/projects](https://boutouil.me/projects)
 
 - 📫 How to reach me **contact@boutouil.me**
 
