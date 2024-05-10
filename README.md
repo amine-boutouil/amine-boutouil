@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I love to drink coffee**
 
+- 📚 Amine Boutouil's Project [List](https://github.com/amine-boutouil/Amine-Boutouil-s-Projects)$
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amin_boutouil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amin_boutouil" height="30" width="40" /></a>
