@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Amine Boutouil</h1>
+<h1 align="center">Hi 👋, I'm Amine Boutouil</h1>
 <h3 align="center">I'm a Full-Stack web Developer, Software {Designer, Developer} and Network Administrator !</h3>
 
 - 🔭 I’m currently working on **Bots and Task Automations**
