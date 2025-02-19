@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [go.boutouil.me/projects](https://go.boutouil.me/projects)
 
-- 📫 How to reach me **contact@boutouil.me**
+- 📫 How to reach me [go.boutouil.me/email](https://go.boutouil.me/email)
 
 - 📄 Know about my experiences [go.boutouil.me/whoami](https://go.boutouil.me/whoami)
 
