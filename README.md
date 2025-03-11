@@ -14,8 +14,6 @@
 - 📄 Know about my experiences [go.boutouil.me/whoami](https://go.boutouil.me/whoami)
 
 - ⚡ Fun fact **I love to drink coffee**
-
-- 📚 Amine Boutouil's Project [List](https://github.com/amine-boutouil/Amine-Boutouil-s-Projects)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
