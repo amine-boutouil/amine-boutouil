@@ -16,9 +16,9 @@
 - ⚔️ Engineering: **Automation Bots**, **Recon Frameworks**, **AI-Augmented Toolchains**
 - 🧠 Evolving in: **Node.js**, **Python**, **Low-Level Networking**
 - 🛠️ Principle: Tools should be sharp, surgical, and silent
-- 📡 Portfolio: [go.boutouil.me/projects](https://go.boutouil.me/portfolio)
 - 🧬 Identity: [go.boutouil.me/whoami](https://go.boutouil.me/whoami)
 - 📫 Contact: [go.boutouil.me/email](https://go.boutouil.me/email)
+- 📡 Projects: [go.boutouil.me/projects](https://go.boutouil.me/projects)
 
 ---
 
