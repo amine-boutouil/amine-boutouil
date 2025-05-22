@@ -14,7 +14,7 @@
 
 - 🔍 Specializing in: **Reverse Engineering**, **System Internals**, **Offensive Security**
 - ⚔️ Engineering: **Automation Bots**, **Recon Frameworks**, **AI-Augmented Toolchains**
-- 🧠 Evolving in: **Node.js**, **Python**, **Low-Level Networking**
+- 🧠 Evolving in: **Node.js**, **Python**, **Networking**
 - 🛠️ Principle: Tools should be sharp, surgical, and silent
 - 🧬 Identity: [go.boutouil.me/whoami](https://go.boutouil.me/whoami)
 - 📫 Contact: [go.boutouil.me/email](https://go.boutouil.me/email)
