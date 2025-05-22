@@ -61,6 +61,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amine-boutouil&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center"><sub>⚠️ Stats reflect public activity only — most of the real work is private.</sub></p>
+
 ---
 
 ### ☕ Fuel the Mission
