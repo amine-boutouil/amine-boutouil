@@ -2,10 +2,8 @@
 <h1 align="center">Amine Boutouil</h1>
 <h3 align="center">Engineer · Full-Stack Alchemist · Cybersecurity Strategist</h3>
 
-<p align="center"><i>"Reborn from chaos, forged in fire."</i></p>
-
 <p align="center">
-  Sculpting code, bending systems, automating the battlefield — one exploit, one patch, one line at a time.
+  Sculpting code, bending systems, automating the battlefield - one exploit, one patch, one line at a time.
 </p>
 
 ---
