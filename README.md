@@ -48,21 +48,6 @@
 
 ---
 
-### 📊 Stats & Insights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amine-boutouil&theme=matrix&no-bg=true&margin-w=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amine-boutouil&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amine-boutouil&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center"><sub>⚠️ Stats reflect public activity only — most of the real work is private.</sub></p>
-
----
-
 ### ☕ Fuel the Mission
 
 <p align="center">
