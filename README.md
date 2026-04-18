@@ -20,34 +20,6 @@
 
 ---
 
-### 🧰 Arsenal
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
-</p>
-
-<p align="center"><code>...plus anything forged for precision, speed, and control.</code></p>
-
----
-
-### 🌐 Digital Presence
-
-<p align="center">
-  <a href="https://linkedin.com/in/amineboutouil"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/amin_boutouil"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://instagram.com/amine_boutouil"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@amineboutouil"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
-</p>
-
----
-
 ### ☕ Fuel the Mission
 
 <p align="center">
@@ -58,4 +30,4 @@
 
 ---
 
-<p align="center"><sub>© 2025 — Amine Boutouil · Engineered with intent and intensity</sub></p>
+<p align="center"><sub>© 2026 — Amine Boutouil · Engineered with intent and intensity</sub></p>
