@@ -13,10 +13,10 @@
 <br><br>
 
 <div align="center">
-  <a href="https://go.boutouil.me/portfolio">Portfolio</a> &nbsp;&middot;&nbsp; 
-  <a href="https://blog.boutouil.me">Security Research blog</a> &nbsp;&middot;&nbsp; 
-  <a href="https://status.boutouil.me">Network Status</a> &nbsp;&middot;&nbsp; 
-  <a href="https://go.boutouil.me/email">Contact me</a>
+  <a href="https://go.boutouil.me/portfolio" target="_blank">Portfolio</a> &nbsp;&middot;&nbsp; 
+  <a href="https://blog.boutouil.me" target="_blank">Security Research blog</a> &nbsp;&middot;&nbsp; 
+  <a href="https://status.boutouil.me" target="_blank">Network Status</a> &nbsp;&middot;&nbsp; 
+  <a href="https://go.boutouil.me/email" target="_blank">Contact me</a>
 </div>
 
 <br><br>
