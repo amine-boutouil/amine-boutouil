@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+  <defs>
+    <style>
+      .bg { fill: #000000; }
+      .grid { stroke: #18181b; stroke-width: 1; }
+      
+      .text-title { font-family: system-ui, -apple-system, sans-serif; font-size: 14px; font-weight: 700; fill: #ffffff; letter-spacing: 2px; }
+      .text-sub { font-family: 'SF Mono', Consolas, monospace; font-size: 11px; fill: #71717a; }
+      .text-data { font-family: system-ui, -apple-system, sans-serif; font-size: 12px; font-weight: 400; fill: #a1a1aa; }
+      
+      .line { fill: none; stroke: #27272a; stroke-width: 1; }
+      .line-active { fill: none; stroke: #3b82f6; stroke-width: 1.5; stroke-dasharray: 4,4; animation: dash 20s linear infinite; }
+      
+      .node { fill: #09090b; stroke: #27272a; stroke-width: 1; rx: 6; ry: 6; transition: stroke 0.3s, fill 0.3s; }
+      
+      .card-group { cursor: crosshair; }
+      .card-group:hover .node { stroke: #3b82f6; fill: #18181b; }
+      .card-group:hover .text-title { fill: #3b82f6; }
+      .card-group:hover .text-data { fill: #ffffff; }
+      
+      .dot { fill: #3b82f6; }
+      
+      @keyframes dash {
+        to { stroke-dashoffset: -1000; }
+      }
+      
+      .pulse-ring { fill: none; stroke: #3b82f6; stroke-width: 1; opacity: 0; animation: radar 3s ease-out infinite; }
+      .pulse-ring-2 { fill: none; stroke: #3b82f6; stroke-width: 1; opacity: 0; animation: radar 3s ease-out 1.5s infinite; }
+      
+      @keyframes radar {
+        0% { r: 2; opacity: 0.8; }
+        100% { r: 30; opacity: 0; }
+      }
+    </style>
+    
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" class="grid"/>
+    </pattern>
+  </defs>
+
+  <rect width="800" height="400" class="bg" rx="12" ry="12"/>
+  <rect width="800" height="400" fill="url(#grid)" rx="12" ry="12" opacity="0.3"/>
+
+  <!-- Flow Lines connecting sections -->
+  <path d="M 200,200 L 400,200 L 600,130" class="line" />
+  <path d="M 400,200 L 600,270" class="line" />
+  <path d="M 400,200 L 600,130" class="line-active" />
+  <path d="M 400,200 L 600,270" class="line-active" />
+
+  <!-- Center Hub -->
+  <g transform="translate(400, 200)">
+    <circle cx="0" cy="0" r="8" class="dot"/>
+    <circle cx="0" cy="0" r="2" fill="#000000"/>
+    <text x="0" y="-15" class="text-sub" text-anchor="middle">CORE.SYS</text>
+  </g>
+
+  <!-- Left Side: Tech Stack -->
+  <text x="40" y="50" class="text-title">STACK &amp; PROTOCOLS</text>
+  <line x1="40" y1="65" x2="360" y2="65" class="line"/>
+  
+  <g class="card-group" transform="translate(40, 90)">
+    <rect width="140" height="40" class="node"/>
+    <text x="70" y="24" class="text-data" text-anchor="middle">Offensive Security</text>
+  </g>
+  <g class="card-group" transform="translate(200, 90)">
+    <rect width="140" height="40" class="node"/>
+    <text x="70" y="24" class="text-data" text-anchor="middle">System Internals</text>
+  </g>
+
+  <g class="card-group" transform="translate(40, 150)">
+    <rect width="140" height="40" class="node"/>
+    <text x="70" y="24" class="text-data" text-anchor="middle">DevOps CI/CD</text>
+  </g>
+  <g class="card-group" transform="translate(200, 150)">
+    <rect width="140" height="40" class="node"/>
+    <text x="70" y="24" class="text-data" text-anchor="middle">Docker / K8s</text>
+  </g>
+
+  <g class="card-group" transform="translate(40, 210)">
+    <rect width="140" height="40" class="node"/>
+    <text x="70" y="24" class="text-data" text-anchor="middle">Node.js</text>
+  </g>
+  <g class="card-group" transform="translate(200, 210)">
+    <rect width="140" height="40" class="node"/>
+    <text x="70" y="24" class="text-data" text-anchor="middle">Python</text>
+  </g>
+
+  <g class="card-group" transform="translate(40, 270)">
+    <rect width="140" height="40" class="node"/>
+    <text x="70" y="24" class="text-data" text-anchor="middle">TypeScript / React</text>
+  </g>
+  <g class="card-group" transform="translate(200, 270)">
+    <rect width="140" height="40" class="node"/>
+    <text x="70" y="24" class="text-data" text-anchor="middle">Network Telecoms</text>
+  </g>
+
+  <!-- Right Side: Principles -->
+  <text x="440" y="50" class="text-title">ENGINEERING PRINCIPLES</text>
+  <line x1="440" y1="65" x2="760" y2="65" class="line"/>
+
+  <!-- Principle 1 -->
+  <g class="card-group" transform="translate(600, 130)">
+    <rect x="-160" y="-40" width="320" height="80" class="node"/>
+    
+    <!-- Animated Node Marker -->
+    <circle cx="-130" cy="0" r="4" fill="#3b82f6"/>
+    <circle cx="-130" cy="0" r="2" class="pulse-ring"/>
+    <circle cx="-130" cy="0" r="2" class="pulse-ring-2"/>
+    
+    <text x="-110" y="-15" class="text-title">SECURE BY DESIGN</text>
+    <text x="-110" y="5" class="text-data">Foundational Layer Defense</text>
+    <text x="-110" y="25" class="text-sub">Zero-Trust | Architecture | Mitigation</text>
+  </g>
+
+  <!-- Principle 2 -->
+  <g class="card-group" transform="translate(600, 270)">
+    <rect x="-160" y="-40" width="320" height="80" class="node"/>
+    
+    <!-- Animated Node Marker -->
+    <circle cx="-130" cy="0" r="4" fill="#3b82f6"/>
+    <circle cx="-130" cy="0" r="2" class="pulse-ring"/>
+    <circle cx="-130" cy="0" r="2" class="pulse-ring-2"/>
+    
+    <text x="-110" y="-15" class="text-title">SYSTEMS RESILIENCE</text>
+    <text x="-110" y="5" class="text-data">Self-Healing Infrastructure</text>
+    <text x="-110" y="25" class="text-sub">Complexity Mgmt | Fault Tolerance</text>
+  </g>
+
+</svg>

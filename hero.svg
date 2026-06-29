@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
+  <defs>
+    <style>
+      .bg { fill: #000000; }
+      .text-name { font-family: system-ui, -apple-system, sans-serif; font-size: 42px; font-weight: 800; fill: #ffffff; letter-spacing: -1px; }
+      .text-title { font-family: system-ui, -apple-system, sans-serif; font-size: 16px; font-weight: 400; fill: #a1a1aa; letter-spacing: 1px; }
+      .text-desc { font-family: system-ui, -apple-system, sans-serif; font-size: 14px; font-weight: 400; fill: #71717a; line-height: 1.6; }
+      
+      .orb { fill: none; stroke: #27272a; stroke-width: 1; }
+      .orb-inner { fill: none; stroke: #3f3f46; stroke-width: 1; }
+      .particle { fill: #ffffff; }
+
+      .fade-up { opacity: 0; animation: fadeUp 1.2s cubic-bezier(0.16, 1, 0.3, 1) forwards; }
+      .delay-1 { animation-delay: 0.2s; }
+      .delay-2 { animation-delay: 0.4s; }
+      .delay-3 { animation-delay: 0.6s; }
+      
+      @keyframes fadeUp {
+        0% { opacity: 0; transform: translateY(20px); }
+        100% { opacity: 1; transform: translateY(0); }
+      }
+      
+      .core-group { cursor: crosshair; }
+      .core-group:hover .core-pulse { stroke: #3b82f6; fill: #000000; filter: drop-shadow(0 0 12px rgba(59,130,246,0.8)); }
+      .core-group:hover .orb-inner { stroke: #3b82f6; }
+    </style>
+  </defs>
+
+  <rect width="800" height="300" class="bg" rx="12" ry="12"/>
+
+  <!-- Ambient Animated Orbs -->
+  <g class="core-group" transform="translate(600, 150)">
+    <!-- Outer ring rotating -->
+    <circle cx="0" cy="0" r="100" class="orb">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="30s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- Inner ring rotating opposite -->
+    <circle cx="0" cy="0" r="60" class="orb-inner">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="20s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- Moving Particles on Rings -->
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="30s" repeatCount="indefinite"/>
+      <circle cx="100" cy="0" r="3" class="particle" />
+      <circle cx="-100" cy="0" r="3" class="particle" />
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="20s" repeatCount="indefinite"/>
+      <circle cx="0" cy="60" r="2" class="particle" />
+      <circle cx="0" cy="-60" r="2" class="particle" />
+    </g>
+    
+    <!-- Core pulse -->
+    <circle cx="0" cy="0" r="15" class="core-pulse" fill="#18181b" stroke="#52525b" stroke-width="1">
+      <animate attributeName="r" values="15;18;15" dur="4s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0.5;1" dur="4s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- Content -->
+  <g transform="translate(60, 110)">
+    <text y="0" class="text-name fade-up">Amine Boutouil</text>
+    <text y="30" class="text-title fade-up delay-1">Systems Engineer &amp; Cybersecurity Strategist</text>
+    
+    <line x1="0" y1="55" x2="30" y2="55" stroke="#52525b" stroke-width="2" class="fade-up delay-2"/>
+    
+    <text y="85" class="text-desc fade-up delay-3">Designing environments where complexity is managed gracefully,</text>
+    <text y="105" class="text-desc fade-up delay-3">and security is an invisible, integral property of the architecture.</text>
+  </g>
+</svg>
